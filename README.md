@@ -1,7 +1,7 @@
 👋 Hi, I’m Denzil Wawire Okwako
 
 - 🌱 I’m currently part of part of the 1 million developers for Africa program.
-- 💞️ I’m looking to collaborate real world projects
+- 💞️ I’m looking to collaborate on real world projects
 - 📫 Reach me on my twitter.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: "Ideas don't disappear. They change form, they merge with other ideas."
