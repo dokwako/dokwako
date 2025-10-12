@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently part of the **1 million developers for Africa program**, focusing on advanced Android Development technologies.
 - 💞️ I’m looking to collaborate on **real-world projects** involving Android, Python, or JavaScript.
-- 💬 Ask me about **Kotlin, Jetpack Compose, Python (Django), and JavaScript (React/Node.js)**.
+- 💬 Ask me about **Kotlin, Jetpack Compose, Python (Django), and JavaScript**.
 - 📫 How to reach me: **denzilokwako411@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **"Ideas don't disappear. They change form, they merge with other ideas."**
@@ -47,12 +47,6 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
-      </a>
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
       </a>
@@ -69,9 +63,12 @@
 
 <br>
 
-<h3 align="left">📊 My GitHub Stats:</h3>
+<h3 align="left">📊 My GitHub Stats & Activity:</h3>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dOkwako&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&count_private=true" alt="dOkwako's GitHub Stats" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dOkwako&theme=tokyonight" alt="dOkwako's GitHub Streak" />
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dOkwako&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dOkwako's Top Languages" />
