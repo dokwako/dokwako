@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey there, I’m <span style="color:#00b0ff;">Denzil Wawire Okwako</span></h1>
 <h3 align="center">💡 "Passion beats talent — but passion with skill changes everything."</h3>
-<h4 align="center">Software Developer from Kenya 🇰🇪 — crafting meaningful digital experiences through Android and Java-based solutions.</h4>
+<h4 align="center">Software Developer from Kenya 🇰🇪 — crafting meaningful digital experiences through Android solutions.</h4>
 
 ---
 
